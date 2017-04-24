@@ -3,9 +3,9 @@
     <dbname value="my_weather"/>
     <version value="1"/>
     <list>
-        <mapping class="com.myweather.db.Province"/>
-        <mapping class="com.myweather.db.City"/>
-        <mapping class="com.myweather.db.County"/>
+        <mapping class="com.example.myweather.db.Province"/>
+        <mapping class="com.example.myweather.db.City"/>
+        <mapping class="com.example.myweather.db.County"/>
     </list>
 </litepal>
 
